@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/COMS_227.iml" filepath="$PROJECT_DIR$/.idea/COMS_227.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Homework 2/Homework 2.iml" filepath="$PROJECT_DIR$/Homework 2/Homework 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Homework1/Homework1.iml" filepath="$PROJECT_DIR$/Homework1/Homework1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Homework3/Homework3.iml" filepath="$PROJECT_DIR$/Homework3/Homework3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Homework4/Homework4.iml" filepath="$PROJECT_DIR$/Homework4/Homework4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Project1/Project1.iml" filepath="$PROJECT_DIR$/Project1/Project1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Project4/Project4.iml" filepath="$PROJECT_DIR$/Project4/Project4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Project5/Project5.iml" filepath="$PROJECT_DIR$/Project5/Project5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Project7/Project7.iml" filepath="$PROJECT_DIR$/Project7/Project7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Unit 1/Unit 1.iml" filepath="$PROJECT_DIR$/Unit 1/Unit 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mini1/mini1.iml" filepath="$PROJECT_DIR$/mini1/mini1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mini2/mini2.iml" filepath="$PROJECT_DIR$/mini2/mini2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mini3/mini3.iml" filepath="$PROJECT_DIR$/mini3/mini3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project8/project8.iml" filepath="$PROJECT_DIR$/project8/project8.iml" />
+    </modules>
+  </component>
+</project>
